@@ -1,2 +1,2 @@
 # First-Project
-A simple online shop backend written by Java language 
+A java_based simple online shop backend as a student project for advanced programming course
